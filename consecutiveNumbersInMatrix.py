@@ -10,8 +10,7 @@ Created on Mon Apr 12 20:16:45 2021
 m=int(input())
 
 #arrays for storing matrix and consecutive numbers
-mat=[]
-lst=[]
+mat,lst=[],[]
 
 
 #input space seperated matrix of m rows
